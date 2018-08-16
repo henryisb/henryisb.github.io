@@ -11,12 +11,12 @@ I've written a couple of Haikus (haiku's, Haiku's, haikus? One of the above...) 
 
 (I thought I'd make them rhyme on the request of someone I work with. Future haikus/poems/whatever aren't going to be constrained by their needs... Or they might be, I'm not sure)
 
-h4. Deployment haiku
-The deployment's done,
-Now, shall we have all the fun,
-Or maybe a run
+#### Deployment haiku 
+The deployment's done,  
+Now, shall we have all the fun,  
+Or maybe a run  
 
-h4. Fun haiku
-How to define fun?
-Temporal snapshot of life?
-Maybe emptiness...
+#### Fun haiku
+How to define fun?  
+Temporal snapshot of life?  
+Maybe emptiness...  
