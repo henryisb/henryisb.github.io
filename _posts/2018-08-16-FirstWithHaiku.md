@@ -20,3 +20,6 @@ How to define fun?
 Temporal snapshot of life?  
 Maybe emptiness...  
 
+-----
+
+(Edit a few days after posting: this makes me want to vomit... It sounds so pretentiously shit and as though it's trying to be deep. I hope that's just what happens when you splurge words onto a page.)
